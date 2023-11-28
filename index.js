@@ -6,7 +6,7 @@ function generateREADME(answers) {
 # ${answers.projectTitle}
 ## Table of Contents 
 
-* [nstallation](#installation)
+* [Installation](#installation)
 
 ## Description
 ${answers.description}
